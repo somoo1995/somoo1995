@@ -1,2 +1,2 @@
-![seonggwon Github!](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seonggwon Github!&fontSize=90)
 
