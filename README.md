@@ -1,4 +1,6 @@
+<div align="center" dir="auto">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seonggwon%20Github!&fontSize=90" />
+</div>
 
 <div align="center" dir="auto">
 	<h3>📚 Tech Stack 📚</h3>
@@ -51,6 +53,13 @@
 	</a>
 	<br>
 </div>
+
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somoo1995&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=somoo1995&show_icons=true">
+</div>
+
 
 
 
